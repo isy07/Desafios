@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\construtortreinando\\catalogojogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|solutionrelative:construtortreinando\\catalogojogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\construtortreinando\\jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|solutionrelative:construtortreinando\\jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\construtortreinando\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|solutionrelative:construtortreinando\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\construtortreinando\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|solutionrelative:construtortreinando\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\construtortreinando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C084E1A-DCA5-4511-B771-82CB21E52F53}|ConstrutorTreinando\\ConstrutorTreinando.csproj|solutionrelative:construtortreinando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5ABEBD-2A84-4BD5-A28C-CE9843758D86}|Escola1\\Escola1.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\escola1\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5ABEBD-2A84-4BD5-A28C-CE9843758D86}|Escola1\\Escola1.csproj|solutionrelative:escola1\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5ABEBD-2A84-4BD5-A28C-CE9843758D86}|Escola1\\Escola1.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\escola1\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5ABEBD-2A84-4BD5-A28C-CE9843758D86}|Escola1\\Escola1.csproj|solutionrelative:escola1\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5ABEBD-2A84-4BD5-A28C-CE9843758D86}|Escola1\\Escola1.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\escola1\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5ABEBD-2A84-4BD5-A28C-CE9843758D86}|Escola1\\Escola1.csproj|solutionrelative:escola1\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\restaurante\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\restaurante\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\restaurante\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\restaurante\\produtorestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\produtorestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE7DB7B-D8C6-4BE3-A920-6F0E7CB366EF}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D533DDD-3338-443D-8254-77252585060A}|Loja\\Loja.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\loja\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D533DDD-3338-443D-8254-77252585060A}|Loja\\Loja.csproj|solutionrelative:loja\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D533DDD-3338-443D-8254-77252585060A}|Loja\\Loja.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\loja\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D533DDD-3338-443D-8254-77252585060A}|Loja\\Loja.csproj|solutionrelative:loja\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5ABEBD-2A84-4BD5-A28C-CE9843758D86}|Escola1\\Escola1.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\escola1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5ABEBD-2A84-4BD5-A28C-CE9843758D86}|Escola1\\Escola1.csproj|solutionrelative:escola1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D533DDD-3338-443D-8254-77252585060A}|Loja\\Loja.csproj|c:\\users\\layse.lima\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\\u00E1rea de trabalho\\treinamentos\\dotnet_web_api\\treinamento_desafios\\loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D533DDD-3338-443D-8254-77252585060A}|Loja\\Loja.csproj|solutionrelative:loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogoJogos.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\CatalogoJogos.cs",
+              "RelativeDocumentMoniker": "ConstrutorTreinando\\CatalogoJogos.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\CatalogoJogos.cs",
+              "RelativeToolTip": "ConstrutorTreinando\\CatalogoJogos.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:43:48.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jogos.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\Jogos.cs",
+              "RelativeDocumentMoniker": "ConstrutorTreinando\\Jogos.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\Jogos.cs",
+              "RelativeToolTip": "ConstrutorTreinando\\Jogos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:32:52.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\Conta.cs",
+              "RelativeDocumentMoniker": "ConstrutorTreinando\\Conta.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\Conta.cs",
+              "RelativeToolTip": "ConstrutorTreinando\\Conta.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:28:19.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Titular.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\Titular.cs",
+              "RelativeDocumentMoniker": "ConstrutorTreinando\\Titular.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\Titular.cs",
+              "RelativeToolTip": "ConstrutorTreinando\\Titular.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:18:59.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\Program.cs",
+              "RelativeDocumentMoniker": "ConstrutorTreinando\\Program.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\ConstrutorTreinando\\Program.cs",
+              "RelativeToolTip": "ConstrutorTreinando\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:18:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Restaurante.cs",
+              "RelativeToolTip": "Restaurante\\Restaurante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:09:45.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdutoRestaurante.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\ProdutoRestaurante.cs",
+              "RelativeDocumentMoniker": "Restaurante\\ProdutoRestaurante.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\ProdutoRestaurante.cs",
+              "RelativeToolTip": "Restaurante\\ProdutoRestaurante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:08:44.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cardapio.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Cardapio.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Cardapio.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Cardapio.cs",
+              "RelativeToolTip": "Restaurante\\Cardapio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:33:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Pedido.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Pedido.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Pedido.cs",
+              "RelativeToolTip": "Restaurante\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:32:45.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Mesa.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Mesa.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Mesa.cs",
+              "RelativeToolTip": "Restaurante\\Mesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:32:16.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Program.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Restaurante\\Program.cs",
+              "RelativeToolTip": "Restaurante\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:31:16.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Escola1\\Disciplina.cs",
+              "RelativeDocumentMoniker": "Escola1\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Escola1\\Disciplina.cs",
+              "RelativeToolTip": "Escola1\\Disciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:59:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Escola1\\Professor.cs",
+              "RelativeDocumentMoniker": "Escola1\\Professor.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Escola1\\Professor.cs",
+              "RelativeToolTip": "Escola1\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:58:39.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Escola1\\Aluno.cs",
+              "RelativeDocumentMoniker": "Escola1\\Aluno.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Escola1\\Aluno.cs",
+              "RelativeToolTip": "Escola1\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:57:52.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Escola1\\Program.cs",
+              "RelativeDocumentMoniker": "Escola1\\Program.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Escola1\\Program.cs",
+              "RelativeToolTip": "Escola1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:52:53.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Loja\\Produto.cs",
+              "RelativeDocumentMoniker": "Loja\\Produto.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Loja\\Produto.cs",
+              "RelativeToolTip": "Loja\\Produto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:01:00.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Loja\\Program.cs",
+              "RelativeDocumentMoniker": "Loja\\Program.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Loja\\Program.cs",
+              "RelativeToolTip": "Loja\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:00:19.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Loja\\Estoque.cs",
+              "RelativeDocumentMoniker": "Loja\\Estoque.cs",
+              "ToolTip": "C:\\Users\\layse.lima\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\\u00C1rea de Trabalho\\Treinamentos\\dotnet_web_api\\Treinamento_Desafios\\Loja\\Estoque.cs",
+              "RelativeToolTip": "Loja\\Estoque.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:05:09.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
